@@ -29,4 +29,6 @@ Parallax scrolling is a computer graphics technique used by web designers to cre
 ## Features
 
 - Parralax effect
+- 🚀 About Me
+I'm a learning developer...
 
